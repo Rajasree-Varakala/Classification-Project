@@ -31,5 +31,7 @@ open up you local host and port
 DVC cmd
 
 "dvc init"
+
 "dvc repro"
-dvc dag
+
+"dvc dag"
